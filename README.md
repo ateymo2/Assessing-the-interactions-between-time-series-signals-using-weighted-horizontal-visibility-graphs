@@ -1,4 +1,5 @@
 # Assessing-the-interactions-between-time-series-signals-using-weighted-horizontal-visibility-graphs
+This repository will store the data and code used to reproduce the paper "Assessing the interactions between time series signals using weighted horizontal visibility graphs". The materials will be uploaded if/when the paper is accepted.
 
 See https://zenodo.org/records/15109962 for details.
 
