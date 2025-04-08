@@ -16,7 +16,6 @@ Necessary programs/libraries and versions (a later version than what is here sho
 - Scikit-Learn 1.5.2
 - colorednoise (no version)
 - joblib 1.4.2
-- networkx 3.3
 - igraph 0.11.6
 - leidenalg (no version)
 - mne 1.8.0
